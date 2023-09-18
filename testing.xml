@@ -1,0 +1,7 @@
+<suite name="Test Guru99" >
+    <test name="Login">
+        <classes>
+            <class name="LoginTest"/>
+        </classes>
+    </test>
+</suite>
